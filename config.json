@@ -1,0 +1,26 @@
+{
+  "name": "Brick Breaker Game",
+  "version": "1.0.0",
+  "description": "A neon retro-arcade brick breaker game playable online",
+  "author": "Your Name",
+  "license": "MIT",
+  "gameSettings": {
+    "initialBallSpeed": 4.5,
+    "ballSpeedIncrement": 0.4,
+    "maxBallSpeedPerLevel": 7,
+    "paddleWidth": 110,
+    "maxBrickRows": 8,
+    "bricksPerRow": 7,
+    "scorePerBrick": 10,
+    "initialLives": 3,
+    "particleLifespan": 1.0
+  },
+  "colors": {
+    "primary": "#00f5ff",
+    "secondary": "#8338ec",
+    "accent": "#ff006e",
+    "success": "#06d6a0",
+    "warning": "#ffbe0b",
+    "background": "#05020f"
+  }
+}

@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node (if you ever add node later)
+node_modules/
+package-lock.json
+
+# Local development
+.env
+.env.local
+*.log
+
+# IDE
+*.swp
+*.swo
+*~
